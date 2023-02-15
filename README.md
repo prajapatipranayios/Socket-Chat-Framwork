@@ -1,1 +1,3 @@
-# Socket-Chat-Framwork
+# APlusChat
+
+pod 'APlus'
